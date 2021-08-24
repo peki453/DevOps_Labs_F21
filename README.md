@@ -14,6 +14,8 @@ In this repository you can find my solutions for DevOps Engineering course labs 
 - written in Flask framework
 - hosted on WSGI sever using Gunicorn
 
+*More in LAB1 folder...*
+
 ## Lab 2 Solution
 
 I have used application for previous lab (Lab 1):
@@ -24,3 +26,4 @@ I have used application for previous lab (Lab 1):
 This lab:
 - app is available through a Docker container
 
+*More in LAB2 folder...*
