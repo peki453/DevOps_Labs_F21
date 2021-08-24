@@ -8,4 +8,4 @@ I have used application for previous lab (Lab 1):
 - hosted on WSGI sever using Gunicorn
 
 This lab:
-- app isavailable through a Docker container
+- app is available through a Docker container
