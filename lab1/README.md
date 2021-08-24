@@ -1,4 +1,4 @@
-#Lab 1 Solution
+# Lab 1 Solution
 
 In this folder you can find my solution for Lab 1.
 
